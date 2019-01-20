@@ -28,5 +28,5 @@ To run the program, you can use the EMClassification.cpp file. The program finds
 ![classified em](https://user-images.githubusercontent.com/33495209/51443381-f402e700-1cb5-11e9-822e-8266b8a934fd.png)
 
 ## License
-Free-to-use (MIT)
+Free-to-use (MIT), please use at your own risk
 
