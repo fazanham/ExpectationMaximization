@@ -23,8 +23,7 @@ Inside Properties of your project,
 To run the program, you can use the EMClassification.cpp file. The program finds initial clusters using k-means and then computes the first approximation of the gaussian parameters. Then the program iteratively computes the E-step and the M-step to find better approximations for the clusters.
 
 ## Example
-![original](https://user-images.githubusercontent.com/33495209/51443375-e51c3480-1cb5-11e9-8c5c-1e38405de24f.png)
-![initial clusters](https://user-images.githubusercontent.com/33495209/51443378-ee0d0600-1cb5-11e9-86b9-bae5fe9d8215.png)
+![original](https://user-images.githubusercontent.com/33495209/51443375-e51c3480-1cb5-11e9-8c5c-1e38405de24f.png)![initial clusters](https://user-images.githubusercontent.com/33495209/51443378-ee0d0600-1cb5-11e9-86b9-bae5fe9d8215.png)
 ![classified em](https://user-images.githubusercontent.com/33495209/51443381-f402e700-1cb5-11e9-822e-8266b8a934fd.png)
 
 ## License
