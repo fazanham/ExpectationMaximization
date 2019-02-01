@@ -1,5 +1,5 @@
 # ExpectationMaximization
-A class for unsupervised classification using Expectation Maximization
+A software utility for clustering using Expectation Maximization Estimation
 
 # Installation
 The project requires a few open-source libraries:</br>
