@@ -3,7 +3,7 @@ A class for unsupervised classification using Expectation Maximization
 
 # Installation
 The project requires a few open-source libraries:</br>
-OpenCV (v3.1)
+OpenCV (v3.1) (OpenCV is used for its convinient matrix structure)</br>
 Eigen (v3.3.4)
 
 ## Setup
