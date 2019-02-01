@@ -2,7 +2,7 @@
 A class for unsupervised classification using Expectation Maximization
 
 # Installation
-The project requires a few open-source libraries:
+The project requires a few open-source libraries:</br>
 OpenCV (v3.1)
 Eigen (v3.3.4)
 
