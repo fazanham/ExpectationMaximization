@@ -3,7 +3,7 @@ A software utility for clustering using Expectation Maximization Estimation
 
 # Installation
 The project requires a few open-source libraries:</br>
-OpenCV (v3.1) (OpenCV is used for its convinient matrix structure)</br>
+OpenCV (v3.1) (OpenCV is used for its convinient matrix structure. The built-in EM function in openCV is not used here.)</br>
 Eigen (v3.3.4)
 
 ## Setup
